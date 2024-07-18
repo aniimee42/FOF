@@ -240,8 +240,7 @@ def FOFALWAYSONFIRE():
   print(f"Your Key : \033[1;32m"+id)                                
   #print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
   #print(f"Send Your Key WhatsApp")
-  #os.system(f'xdg-open https://www.facebook.com/キム・
-ジョン')
+  #os.system(f'xdg-open https://www.facebook.com/キム')
   time.sleep(1)
   print(f"\033[1;37mChecking Your Key")
   try:
