@@ -228,9 +228,9 @@ def FOFALWAYSONFIRE():
           ██      ██    ██ ██
           ██       ██████  ██
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
- Author    : キム LITE
+ Author    : FOF LITE
  Github    : aniimee42
- Facebook  : キム
+ Facebook  : mxnzv 
  Tool Name : FOF
  Tool Type : \033[1;31mTRIAL\033[1;37m
  Version   : \033[1;32m2.5\033[1;37m
@@ -238,7 +238,7 @@ def FOFALWAYSONFIRE():
   print(f"Your Key : \033[1;32m"+id)                                
   #print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
   #print(f"Send Your Key WhatsApp")
-  #os.system(f'xdg-open https://www.facebook.com/キム')
+  #os.system(f'xdg-open https://www.facebook.com/mxnzv')
   time.sleep(1)
   print(f"\033[1;37mChecking Your Key")
   try:
@@ -270,9 +270,9 @@ logo=(f"""\x1b[1;97m
           ██      ██    ██ ██
           ██       ██████  ██
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
- Author    : キム LITE
+ Author    : FOF LITE
  Github    : aniimee42
- Facebook  : キム
+ Facebook  : mxnzv
  Tool Name : \033[1;36m𝗙 𝗢 𝗙\033[1;37m
  Tool Type : \033[1;31mTRIAL\033[1;37m
  Version   : \033[1;36m2.6\033[1;37m
